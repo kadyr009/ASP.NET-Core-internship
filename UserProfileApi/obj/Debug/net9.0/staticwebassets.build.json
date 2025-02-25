@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "Hash": "pwyS06vXaFNm3aFBwyXOs+Vzl6oDiw/Md7BGimFa3q4=",
+  "Source": "UserProfileApi",
+  "BasePath": "_content/UserProfileApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "UserProfileApi/wwwroot",
+      "Source": "UserProfileApi",
+      "ContentRoot": "/home/erik/Документы/UserProfileApi/wwwroot/",
+      "BasePath": "_content/UserProfileApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/erik/Документы/UserProfileApi/wwwroot/avatars/Снимок экрана от 2024-12-20 14-24-27.png",
+      "SourceId": "UserProfileApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/erik/Документы/UserProfileApi/wwwroot/",
+      "BasePath": "_content/UserProfileApi",
+      "RelativePath": "avatars/Снимок экрана от 2024-12-20 14-24-27#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cy2figevdb",
+      "Integrity": "tO6XXLEoTyVNdI/MFUVY8227UjLtfoC1SACPxnbqj00=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/avatars/Снимок экрана от 2024-12-20 14-24-27.png"
+    },
+    {
+      "Identity": "/home/erik/Документы/UserProfileApi/wwwroot/avatars/Снимок экрана от 2025-01-29 23-07-34.png",
+      "SourceId": "UserProfileApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/erik/Документы/UserProfileApi/wwwroot/",
+      "BasePath": "_content/UserProfileApi",
+      "RelativePath": "avatars/Снимок экрана от 2025-01-29 23-07-34#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1xklhj244a",
+      "Integrity": "JVqgLkNL4Dc23u1crHj0WhPz26UdnsXrN1WqYkkh0Uo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/avatars/Снимок экрана от 2025-01-29 23-07-34.png"
+    },
+    {
+      "Identity": "/home/erik/Документы/UserProfileApi/wwwroot/avatars/Texturelabs_Wood_247L.jpg",
+      "SourceId": "UserProfileApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/erik/Документы/UserProfileApi/wwwroot/",
+      "BasePath": "_content/UserProfileApi",
+      "RelativePath": "avatars/Texturelabs_Wood_247L#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zn1l91al9j",
+      "Integrity": "ryjXxOjQdyUxaJwQF+dFxp2PtYijBIBCuAhy6vs+ND4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/avatars/Texturelabs_Wood_247L.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "avatars/Снимок экрана от 2024-12-20 14-24-27.cy2figevdb.png",
+      "AssetFile": "/home/erik/Документы/UserProfileApi/wwwroot/avatars/Снимок экрана от 2024-12-20 14-24-27.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "649924"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tO6XXLEoTyVNdI/MFUVY8227UjLtfoC1SACPxnbqj00=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 18:07:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cy2figevdb"
+        },
+        {
+          "Name": "label",
+          "Value": "avatars/Снимок экрана от 2024-12-20 14-24-27.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tO6XXLEoTyVNdI/MFUVY8227UjLtfoC1SACPxnbqj00="
+        }
+      ]
+    },
+    {
+      "Route": "avatars/Снимок экрана от 2024-12-20 14-24-27.png",
+      "AssetFile": "/home/erik/Документы/UserProfileApi/wwwroot/avatars/Снимок экрана от 2024-12-20 14-24-27.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "649924"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tO6XXLEoTyVNdI/MFUVY8227UjLtfoC1SACPxnbqj00=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 18:07:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tO6XXLEoTyVNdI/MFUVY8227UjLtfoC1SACPxnbqj00="
+        }
+      ]
+    },
+    {
+      "Route": "avatars/Снимок экрана от 2025-01-29 23-07-34.1xklhj244a.png",
+      "AssetFile": "/home/erik/Документы/UserProfileApi/wwwroot/avatars/Снимок экрана от 2025-01-29 23-07-34.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9455"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JVqgLkNL4Dc23u1crHj0WhPz26UdnsXrN1WqYkkh0Uo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 18:09:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1xklhj244a"
+        },
+        {
+          "Name": "label",
+          "Value": "avatars/Снимок экрана от 2025-01-29 23-07-34.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JVqgLkNL4Dc23u1crHj0WhPz26UdnsXrN1WqYkkh0Uo="
+        }
+      ]
+    },
+    {
+      "Route": "avatars/Снимок экрана от 2025-01-29 23-07-34.png",
+      "AssetFile": "/home/erik/Документы/UserProfileApi/wwwroot/avatars/Снимок экрана от 2025-01-29 23-07-34.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9455"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JVqgLkNL4Dc23u1crHj0WhPz26UdnsXrN1WqYkkh0Uo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 18:09:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JVqgLkNL4Dc23u1crHj0WhPz26UdnsXrN1WqYkkh0Uo="
+        }
+      ]
+    },
+    {
+      "Route": "avatars/Texturelabs_Wood_247L.jpg",
+      "AssetFile": "/home/erik/Документы/UserProfileApi/wwwroot/avatars/Texturelabs_Wood_247L.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3724581"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ryjXxOjQdyUxaJwQF+dFxp2PtYijBIBCuAhy6vs+ND4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 18:07:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ryjXxOjQdyUxaJwQF+dFxp2PtYijBIBCuAhy6vs+ND4="
+        }
+      ]
+    },
+    {
+      "Route": "avatars/Texturelabs_Wood_247L.zn1l91al9j.jpg",
+      "AssetFile": "/home/erik/Документы/UserProfileApi/wwwroot/avatars/Texturelabs_Wood_247L.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3724581"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ryjXxOjQdyUxaJwQF+dFxp2PtYijBIBCuAhy6vs+ND4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 18:07:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zn1l91al9j"
+        },
+        {
+          "Name": "label",
+          "Value": "avatars/Texturelabs_Wood_247L.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ryjXxOjQdyUxaJwQF+dFxp2PtYijBIBCuAhy6vs+ND4="
+        }
+      ]
+    }
+  ]
+}
