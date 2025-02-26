@@ -1,0 +1,56 @@
+# Visual Studio файлы
+.vscode/
+*.code-workspace
+
+# Бинарные файлы и временные сборки
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+
+# Конфигурации пользователя
+*.user
+*.suo
+*.vs/
+
+# Логи, временные файлы, блокировки
+logs/
+*.log
+*.lock
+.DS_Store
+Thumbs.db
+
+# Конфигурационные файлы IDE
+.idea/
+*.sln.ide
+*.sln.docstates
+
+# Файлы NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+# Секретные данные (если есть, лучше хранить отдельно)
+appsettings.Development.json
+secrets.json
+
+# База данных SQLite (если используешь SQLite)
+*.db
+*.db-shm
+*.db-wal
+
+# Docker файлы (если используешь Docker)
+docker-compose.override.yml
+
+# .NET Build Cache
+out/
+artifacts/
+TestResults/
+
+# Swagger файлы (если генерируются автоматически)
+swagger/
+
+# Rider IDE файлы (если используешь Rider)
+.idea/
+*.sln.iml
